@@ -48,7 +48,7 @@ Joseph and Mary Public School • 80% • 2019-2020
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=disha033&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
-- 📧 Email: [Your Email Here]
+- 📧 Email: lalitamehra020@gmail.com
 - 🔗 LinkedIn: [Disha Mehra](https://www.linkedin.com/in/disha-mehra-aa6b3a203)
 - 💻 GitHub: [disha033](https://github.com/disha033)
 
