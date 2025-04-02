@@ -3,10 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/disha-mehra-aa6b3a203)
 [![GitHub](https://img.shields.io/badge/GitHub-disha033-%23121011?style=flat&logo=github)](https://github.com/disha033)
 
-<p align="center">
-  <img src="https://github.com/disha033/disha033/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
-</p>
-
 ## 📌 Summary
 Aspiring individual with strong skills in AI technologies, data analysis, and visualization. Passionate about transforming raw data into meaningful insights and building AI-powered solutions.
 
